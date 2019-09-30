@@ -4,7 +4,7 @@
 
 
 
-[![Github Actions](https://github.com/rossgrady/mockingoose/workflows/.github/workflows/nodejs.yml/badge.svg)](https://github.com/rossgrady/mockingoose/actions)
+[![](https://github.com/rossgrady/mockingoose/workflows/node-ci/badge.svg)](https://github.com/rossgrady/mockingoose/actions)
 
 > A Jest package for mocking mongoose models
 
