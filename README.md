@@ -1,8 +1,8 @@
 # Mockingoose 
-![](https://github.com/rossgrady/mockingoose/.github/workflows/nodejs.yml/badge.svg)
-
 
 ![logo]
+
+![](https://github.com/rossgrady/mockingoose/workflows/.github/workflows/nodejs.yml/badge.svg)
 
 > A Jest package for mocking mongoose models
 
