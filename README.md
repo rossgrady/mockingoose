@@ -1,4 +1,6 @@
-# Mockingoose [![CircleCI](https://circleci.com/gh/alonronin/mockingoose/tree/master.svg?style=svg)](https://circleci.com/gh/alonronin/mockingoose/tree/master)
+# Mockingoose 
+![](https://github.com/rossgrady/mockingoose/.github/workflows/nodejs.yml/badge.svg)
+
 
 ![logo]
 
